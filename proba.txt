@@ -1,1 +1,1 @@
-This is the my firts exersise in git bash.
+This is the my firts exersises in git bash.
